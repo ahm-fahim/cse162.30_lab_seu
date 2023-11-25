@@ -13,7 +13,7 @@ int main()
         eVal = fgetc(eOut);
         gVal = fgetc(gOut);
 
-        if (eVal != gVal || eVal == EOF || gVal == EOF)
+        if (eVal != gVal || eVal == EOF || gVal == EOF) //EOF =  End Of File 
             break;
     }
     (eVal != EOF || gVal != EOF) ? printf("Wrong Answer!\n") : printf("Accepted\n");
