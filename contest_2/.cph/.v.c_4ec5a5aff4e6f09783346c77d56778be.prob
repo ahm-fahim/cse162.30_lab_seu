@@ -1,0 +1,1 @@
+{"name":"Local: v","url":"/Users/fahim/Documents/contest/v.c","tests":[{"id":1704452387426,"input":"0 3 1 5\n","output":""},{"id":1704452404246,"input":"0 1 4 5\n","output":""},{"id":1704452414094,"input":"0 3 3 7\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/fahim/Documents/contest/v.c","group":"local","local":true}

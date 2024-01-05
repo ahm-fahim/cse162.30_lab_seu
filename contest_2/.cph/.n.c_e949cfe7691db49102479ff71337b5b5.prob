@@ -1,0 +1,1 @@
+{"name":"Local: n","url":"/Users/fahim/Documents/contest/n.c","tests":[{"id":1704391096123,"input":"1 2 5 3\n","output":""},{"id":1704391150182,"input":"10 -20 30 -40\n","output":""},{"id":1704391160447,"input":"100 100 100 -100\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/fahim/Documents/contest/n.c","group":"local","local":true}

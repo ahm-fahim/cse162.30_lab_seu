@@ -1,0 +1,1 @@
+{"name":"Local: h","url":"/Users/fahim/Documents/contest/h.c","tests":[{"id":1704387750998,"input":"abcdaxayz\n","output":""},{"id":1704387804094,"input":"bcbbbz\n","output":""},{"id":1704387814660,"input":"aaaaa\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/fahim/Documents/contest/h.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: w","url":"/Users/fahim/Documents/contest/w.c","tests":[{"id":1704453229749,"input":"xxx\n","output":""},{"id":1704453327384,"input":"abc","output":""},{"id":1704453353765,"input":"pop","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/fahim/Documents/contest/w.c","group":"local","local":true}

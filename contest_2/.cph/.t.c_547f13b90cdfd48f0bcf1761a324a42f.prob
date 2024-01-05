@@ -1,0 +1,1 @@
+{"name":"Local: t","url":"/Users/fahim/Documents/contest/t.c","tests":[{"id":1704446135666,"input":"1 2 1 2 1\n","output":""},{"id":1704446670651,"input":"12 12 11 1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/fahim/Documents/contest/t.c","group":"local","local":true}

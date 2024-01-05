@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/fahim/Documents/contest/demo'
+relocations:
+  - { offsetInCU: 0xA7, offset: 0xA7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EA8, symSize: 0x28 }
+  - { offsetInCU: 0xEA94, offset: 0xEA94, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x5EF90, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xF8CC, offset: 0xF8CC, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x7E, symBinAddr: 0x100003F4E, symSize: 0x0 }
+  - { offsetInCU: 0xF8E6, offset: 0xF8E6, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x7F, symBinAddr: 0x100003F4F, symSize: 0x0 }
+  - { offsetInCU: 0xF900, offset: 0xF900, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x80, symBinAddr: 0x100003F50, symSize: 0x0 }
+  - { offsetInCU: 0xFA2B, offset: 0xFA2B, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIoEE, symObjAddr: 0x81, symBinAddr: 0x100003F51, symSize: 0x0 }
+  - { offsetInCU: 0xFA85, offset: 0xFA85, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_demo.cpp, symObjAddr: 0x64, symBinAddr: 0x100003F0C, symSize: 0x14 }
+  - { offsetInCU: 0xFAB1, offset: 0xFAB1, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x28, symBinAddr: 0x100003ED0, symSize: 0x3C }
+  - { offsetInCU: 0xFAB9, offset: 0xFAB9, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_demo.cpp, symObjAddr: 0x64, symBinAddr: 0x100003F0C, symSize: 0x14 }
+  - { offsetInCU: 0xFAAD, offset: 0xFAAD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EA8, symSize: 0x28 }
+  - { offsetInCU: 0xFAB5, offset: 0xFAB5, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x28, symBinAddr: 0x100003ED0, symSize: 0x3C }
+...
