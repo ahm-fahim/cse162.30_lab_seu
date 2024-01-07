@@ -1,0 +1,1 @@
+{"name":"Local: f","url":"/Users/fahim/Documents/cse162.30_lab_seu/contest_2/f.c","tests":[{"id":1704611597461,"input":"3 2\n2 7 8\n","output":""},{"id":1704611698073,"input":"9 5\n1 2 3 4 5 6 7 8 9\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/fahim/Documents/cse162.30_lab_seu/contest_2/f.c","group":"local","local":true}
