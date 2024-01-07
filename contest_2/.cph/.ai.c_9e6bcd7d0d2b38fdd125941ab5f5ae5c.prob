@@ -1,0 +1,1 @@
+{"name":"Local: ai","url":"/Users/fahim/Documents/cse162.30_lab_seu/contest_2/ai.c","tests":[{"id":1704605139639,"input":"21","output":"27"},{"id":1704605160101,"input":"12","output":"36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/fahim/Documents/cse162.30_lab_seu/contest_2/ai.c","group":"local","local":true}
