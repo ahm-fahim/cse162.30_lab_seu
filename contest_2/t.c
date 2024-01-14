@@ -14,7 +14,10 @@ int main() {
                 arr[j] = temp;
             }
         }
-    }
+    }§
+
+    // 1 2 1 2 1
+    // 1 1 1 2 2
 
     if ((arr[0] == arr[2] && arr[3] == arr[4]) || (arr[0] == arr[1] && arr[2] == arr[4])) {
         printf("Yes\n");
